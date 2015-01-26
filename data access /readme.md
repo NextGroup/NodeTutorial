@@ -22,3 +22,6 @@ $ mysqladmin -u root -p password new-password
  mysql> update user set password = password('new-password') where user = 'root';
  mysql> flush privileges;
 
+* 5)npm 셋팅   
+ npm init 
+ npm install mysql --save 
