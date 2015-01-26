@@ -50,6 +50,7 @@ https://github.com/junegunn/redis-stat/blob/master/README.md
 
 4)     
 
+*  redis cheet key - http://lzone.de/cheat-sheet/Redis
 
 
 
