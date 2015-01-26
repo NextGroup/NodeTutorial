@@ -24,5 +24,6 @@ update문을 이용하여 root 암호 설정
     mysql> flush privileges;
 
 5) npm 셋팅   
-    npm init 
+    npm init
     npm install mysql --save 
+    
