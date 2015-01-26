@@ -30,6 +30,8 @@ update문을 이용하여 root 암호 설정
      npm install mysql --save 
 
 
+6) mysql workbench 찾아서 셋팅할 것 
+
 
 #REDIS
 1) brew를 통한 설치  http://cook.coredump.me/post/18886668039/brew-install-redis 
@@ -40,4 +42,14 @@ update문을 이용하여 root 암호 설정
      export PATH=$PATH:/usr/local/opt/redis/bin
     
 
-3) 
+3) redis-stat 설치할 것 
+
+https://github.com/junegunn/redis-stat/blob/master/README.md 
+
+     gem install redis-stat
+
+4)     
+
+
+
+
