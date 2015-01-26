@@ -1,10 +1,9 @@
 #mysql
 
-* 1. brew를 통한 설치 
-http://blog.saltfactory.net/121
+* 1) brew를 통한 설치  http://blog.saltfactory.net/121
 
 
-* 2. path 찾아서 path 셋팅해주기 
+* 2) path 찾아서 path 셋팅해주기 
 echo $PATH
 export PATH=$PATH:/usr/local/mysql/bin
 export PATH=$PATH:/usr/local/Cellar/mysql/5.6.22/bin 
