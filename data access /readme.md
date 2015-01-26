@@ -16,7 +16,6 @@ mysql.server stop  - 안쓸대 중지 시키기
 * 4) 패스워드 변경하기
 $ mysqladmin -u root -p password new-password
 위의 방법은 쉘에서 바로 실행하면 되지만, 암호가 히스토리에 남을수 있기 때문에 권하지 않습니다.
-
 update문을 이용하여 root 암호 설정
  $ mysql -u root mysql
  mysql> update user set password = password('new-password') where user = 'root';
