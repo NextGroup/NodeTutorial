@@ -34,6 +34,8 @@ update문을 이용하여 root 암호 설정
 
 
 #REDIS
+* redis cheat sheet - http://lzone.de/cheat-sheet/Redis
+
 1) brew를 통한 설치  http://cook.coredump.me/post/18886668039/brew-install-redis 
 
 2) PATH 세팅하기
@@ -49,8 +51,3 @@ https://github.com/junegunn/redis-stat/blob/master/README.md
      gem install redis-stat
 
 4)     
-
-*  redis cheet key - http://lzone.de/cheat-sheet/Redis
-
-
-
