@@ -28,3 +28,8 @@ update문을 이용하여 root 암호 설정
 
      npm init 
      npm install mysql --save 
+
+
+
+#mysql
+1) brew를 통한 설치  http://cook.coredump.me/post/18886668039/brew-install-redis 
