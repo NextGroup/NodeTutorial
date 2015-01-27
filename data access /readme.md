@@ -1,5 +1,5 @@
 ##이 설치 방법은 맥을 기준으로 한 것입니다.  
-
+* ubuntu는 brew 대신 apt-get 명령어를 이용하시면 됩니다. 
 
 #mysql
 1) brew를 통한 설치  http://blog.saltfactory.net/121
