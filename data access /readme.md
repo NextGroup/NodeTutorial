@@ -1,3 +1,6 @@
+##이 설치 방법은 맥을 기준으로 한 것입니다.  
+
+
 #mysql
 1) brew를 통한 설치  http://blog.saltfactory.net/121
 
@@ -50,4 +53,11 @@ https://github.com/junegunn/redis-stat/blob/master/README.md
 
      gem install redis-stat
 
-4)     
+
+#mongo 
+mongodb 설치와 간단한 사용방법 - http://daddycat.blogspot.kr/2013/02/mongodb-1.html 
+
+1) mongo 설치 방법  http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/ 
+
+2) PATH 셋팅하기 
+      
