@@ -60,4 +60,9 @@ mongodb 설치와 간단한 사용방법 - http://daddycat.blogspot.kr/2013/02/m
 1) mongo 설치 방법  http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/ 
 
 2) PATH 셋팅하기 
-      
+      //To have launchd start mongodb at login:
+      ln -sfv /usr/local/opt/mongodb/*.plist ~/Library/LaunchAgents
+      //Then to load mongodb now:
+      launchctl load ~/Library/LaunchAgents/homebrew.mxcl.mongodb.plist
+     mongod --config /usr/local/etc/mongod.conf
+
