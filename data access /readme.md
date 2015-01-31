@@ -62,4 +62,5 @@ https://github.com/junegunn/redis-stat/blob/master/README.md
 
 2)  mongo admin tool - http://docs.mongodb.org/ecosystem/tools/administration-interfaces/  (MMS 와 RoboMongo 추천) 
 
-
+3) 기타 사항
+* mongo 인증 설정 - http://blog.sixpoly.com/?p=440 
