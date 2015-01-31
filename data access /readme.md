@@ -59,6 +59,7 @@ https://github.com/junegunn/redis-stat/blob/master/README.md
 * http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/ 
 * http://www.mkyong.com/mongodb/how-to-install-mongodb-on-mac-os-x/ 
 * 명령어 참고만 http://daddycat.blogspot.kr/2013/02/mongodb-1.html
+* mongod에 대한 이런 저런 글 모음 - http://linuxism.tistory.com/category/DB/MongoDB 
 
 2)  mongo admin tool - http://docs.mongodb.org/ecosystem/tools/administration-interfaces/  (MMS 와 RoboMongo 추천) 
 
