@@ -5,6 +5,7 @@
 
 # Node.js 문서 
 * 한글화 - http://nodejs.sideeffect.kr/docs/ 
+* Error Handling Pattern - http://www.nodewiz.biz/nodejs-error-handling-pattern/ 
 
 # Error Handling
 * domain api 사용법 - http://nodeqa.com/nodejs_ref/106
