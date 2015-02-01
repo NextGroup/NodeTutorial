@@ -14,5 +14,8 @@
 * http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/ 
 * http://adrianmejia.com/blog/2014/10/03/mean-stack-tutorial-mongodb-expressjs-angularjs-nodejs/
 
+# 성능
+* node.js vs python - http://blog.kgriffs.com/2012/11/13/python-vs-node-vs-pypy-benchmarks.html (많은 접속, 적은 데이터에 유리)
+
 #기타 도움이 될만한 글들
 * node.js ubuntu에 서비스 만들기 - http://kvz.io/blog/2009/12/15/run-nodejs-as-a-service-on-ubuntu-karmic/
