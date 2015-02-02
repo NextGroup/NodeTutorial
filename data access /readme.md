@@ -1,3 +1,6 @@
+##이 설치 방법은 맥을 기준으로 한 것입니다.  
+* ubuntu는 brew 대신 apt-get 명령어를 이용하시면 됩니다. 
+
 #mysql
 1) brew를 통한 설치  http://blog.saltfactory.net/121
 
@@ -50,4 +53,15 @@ https://github.com/junegunn/redis-stat/blob/master/README.md
 
      gem install redis-stat
 
-4)     
+#mongo 
+1)  mongodb 설치와 간단한 사용방법 
+
+* http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/ 
+* http://www.mkyong.com/mongodb/how-to-install-mongodb-on-mac-os-x/ 
+* 명령어 참고만 http://daddycat.blogspot.kr/2013/02/mongodb-1.html
+* mongod에 대한 이런 저런 글 모음 - http://linuxism.tistory.com/category/DB/MongoDB 
+
+2)  mongo admin tool - http://docs.mongodb.org/ecosystem/tools/administration-interfaces/  (MMS 와 RoboMongo 추천) 
+
+3) 기타 사항
+* mongo 인증 설정 - http://blog.sixpoly.com/?p=440 

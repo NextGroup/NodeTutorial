@@ -16,6 +16,7 @@ client.open(function(err) {
       function(err, documents) {
         if (err) throw err;
         console.log('Document ID is: ' + documents[0]._id);
+        client.close();
       }
     );
   });
