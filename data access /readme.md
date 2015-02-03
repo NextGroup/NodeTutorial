@@ -61,7 +61,10 @@ https://github.com/junegunn/redis-stat/blob/master/README.md
 * 명령어 참고만 http://daddycat.blogspot.kr/2013/02/mongodb-1.html
 * mongod에 대한 이런 저런 글 모음 - http://linuxism.tistory.com/category/DB/MongoDB 
 
-2)  mongo admin tool - http://docs.mongodb.org/ecosystem/tools/administration-interfaces/  (MMS 와 RoboMongo 추천) 
+2) 도움이 되는 글 
+* http://proserge.kh.ua/coding/index.php 에서 'mongodb for nodejs' 로 검색할것
 
-3) 기타 사항
+3)  mongo admin tool - http://docs.mongodb.org/ecosystem/tools/administration-interfaces/  (MMS 와 RoboMongo 추천) 
+
+4) 기타 사항
 * mongo 인증 설정 - http://blog.sixpoly.com/?p=440 
