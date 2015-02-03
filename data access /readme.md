@@ -62,7 +62,8 @@ https://github.com/junegunn/redis-stat/blob/master/README.md
 * mongod에 대한 이런 저런 글 모음 - http://linuxism.tistory.com/category/DB/MongoDB 
 
 2) 도움이 되는 글 
-* http://proserge.kh.ua/coding/index.php 에서 'mongodb for nodejs' 로 검색할것
+* mongo db handling -  http://proserge.kh.ua/coding/index.php 에서 'mongodb for nodejs' 로 검색할것
+* mongo sharding setting - http://mobicon.tistory.com/143
 
 3)  mongo admin tool - http://docs.mongodb.org/ecosystem/tools/administration-interfaces/  (MMS 와 RoboMongo 추천) 
 
