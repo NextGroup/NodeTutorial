@@ -11,6 +11,7 @@
 * mongo-node restful service - http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
 
 # MongoDB Handling
+* node.js crud mongo - http://proserge.kh.ua/coding/index.php/post/31/MongoDB+for+NodeJs+devs+week2%3A+CRUD
 * http://blog.gvm-it.eu/post/20462477195/getting-started-with-mongodb-and-node-js-on
 
 # Error Handling
