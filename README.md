@@ -9,7 +9,6 @@
 
 # Node.js Restful Service
 * mongo-node restful service - http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
-* image upload - https://github.com/vgrichina/file-upload/blob/original_article/upload.js
 * image upload - http://debuggable.com/posts/streaming-file-uploads-with-node-js:4ac094b2-b6c8-4a7f-bd07-28accbdd56cb
 * file uploads - http://www.componentix.com/blog/9/file-uploads-using-nodejs-now-for-real 
 
