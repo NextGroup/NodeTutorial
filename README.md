@@ -2,6 +2,10 @@
 * Node Tutorial
 * node js 스터디를 위한 repo 생성
 
+#Javascript 문서
+* function - http://insanehong.kr/post/javascript-function/ 
+* function 다시보기 - http://www.nextree.co.kr/p4150/
+* function 생성 방법 2가지 - http://blog.xcoda.net/65
 
 
 # Node.js 문서 
