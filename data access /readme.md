@@ -68,5 +68,12 @@ https://github.com/junegunn/redis-stat/blob/master/README.md
 
 3)  mongo admin tool - http://docs.mongodb.org/ecosystem/tools/administration-interfaces/  (MMS 와 RoboMongo 추천) 
 
-4) 기타 사항
+4)  sharding
+* http://www.kchodorow.com/blog/2011/01/04/how-to-choose-a-shard-key-the-card-game/
+* mongo sharding guide - http://docs.mongodb.org/v2.6/MongoDB-sharding-guide.pdf 
+* http://docs.mongodb.org/manual/core/sharding/
+* http://docs.mongodb.org/manual/core/sharded-cluster-mechanics/#sharding-internals-shard-keys
+
+
+5) 기타 사항
 * mongo 인증 설정 - http://blog.sixpoly.com/?p=440 
