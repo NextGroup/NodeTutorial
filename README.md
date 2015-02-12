@@ -7,6 +7,7 @@
 * function - http://insanehong.kr/post/javascript-function/ 
 * function 다시보기 - http://www.nextree.co.kr/p4150/
 * function 생성 방법 2가지 - http://blog.xcoda.net/65
+* java script promise 패턴 - http://www.slideshare.net/UyeongJu/javascript-promises
 
 
 # Node.js 문서 
