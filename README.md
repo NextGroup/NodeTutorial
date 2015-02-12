@@ -1,6 +1,7 @@
 # NodeTutorial
 * Node Tutorial
 * node js 스터디를 위한 repo 생성
+* markdown chatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code 
 
 #Javascript 문서
 * function - http://insanehong.kr/post/javascript-function/ 
