@@ -35,9 +35,12 @@
 * 400~500명 정도가 접속하면 "write ECONNRESET", "write EPIPE" 등의 오류가 발생할 경우 
 ``` 
 /etc/limits.conf 또는 /etc/security/limits.conf 를 여시고 맨밑에
+
 hard nofile 9999999
-soft nofile 999999  추가해주시고 모두 로그아웃하고 재접속해서 테스트해보세요
-안되시면 위 방법 후 ulimit -n 999999 하고 나서 명령어 치시면 해결됨
+soft nofile 999999  
+추가해주시고 모두 로그아웃하고 재접속해서 테스트해보세요
+
+안되면 위 방법 후 ulimit -n 999999 하고 나서 명령어 치시면 해결됨
 ``` 
 #기타 도움이 될만한 글들
 * node.js ubuntu에 서비스 만들기 - http://kvz.io/blog/2009/12/15/run-nodejs-as-a-service-on-ubuntu-karmic/
