@@ -65,6 +65,7 @@ https://github.com/junegunn/redis-stat/blob/master/README.md
 * mongo db handling -  http://proserge.kh.ua/coding/index.php 에서 'mongodb for nodejs' 로 검색할것
 * mongo sharding setting - http://mobicon.tistory.com/143
 * mongo sharding 쉬운글 - http://queenyjina.tistory.com/48
+* mongo operations bp - http://info.mongodb.com/rs/mongodb/images/10gen-MongoDB_Operations_Best_Practices.pdf
 
 3)  mongo admin tool - http://docs.mongodb.org/ecosystem/tools/administration-interfaces/  (MMS 와 RoboMongo 추천) 
 
@@ -78,3 +79,4 @@ https://github.com/junegunn/redis-stat/blob/master/README.md
 
 5) 기타 사항
 * mongo 인증 설정 - http://blog.sixpoly.com/?p=440 
+
