@@ -73,7 +73,8 @@ https://github.com/junegunn/redis-stat/blob/master/README.md
 * mongo sharding guide - http://docs.mongodb.org/v2.6/MongoDB-sharding-guide.pdf 
 * http://docs.mongodb.org/manual/core/sharding/
 * http://docs.mongodb.org/manual/core/sharded-cluster-mechanics/#sharding-internals-shard-keys
-
+* 표준 편차 http://bcho.tistory.com/972
+* Consistent Hashing  http://www.mimul.com/pebble/default/2012/05/04/1336102052449.html /  http://sarghis.com/blog/726/
 
 5) 기타 사항
 * mongo 인증 설정 - http://blog.sixpoly.com/?p=440 
