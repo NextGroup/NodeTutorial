@@ -12,6 +12,7 @@
 
 # Node.js 문서 
 * 한글화 - http://nodejs.sideeffect.kr/docs/ 
+* libuv 서적 - http://nikhilm.github.io/uvbook/
 
 # Node.js Restful Service
 * mongo-node restful service - http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
