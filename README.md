@@ -27,6 +27,7 @@
 * http://blog.gvm-it.eu/post/20462477195/getting-started-with-mongodb-and-node-js-on
 
 # Error Handling
+* Error Handing  기본 - http://nodeqa.com/nodejs_ref/1
 * Error Handling Pattern - http://www.nodewiz.biz/nodejs-error-handling-pattern/ 
 * domain api 사용법 - http://nodeqa.com/nodejs_ref/106
 * 
