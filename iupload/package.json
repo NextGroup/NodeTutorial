@@ -1,0 +1,18 @@
+{
+  "name": "iupload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.2",
+    "formidable": "^1.0.16",
+    "mime": "^1.3.2",
+    "mongodb": "^1.4.30"
+  }
+}
