@@ -33,7 +33,9 @@
 * 
 
 # 보안
-* http://blog.saltfactory.net/221 
+* https node.js  서버 만들기 http://blog.saltfactory.net/221 
+* https node.js + andorid 연동하기  http://blog.saltfactory.net/220
+
 
 # MEAN Stack 참고 자료
 * http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/
