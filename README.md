@@ -35,6 +35,7 @@
 # 보안
 * https node.js  서버 만들기 http://blog.saltfactory.net/221 
 * https node.js + andorid 연동하기  http://blog.saltfactory.net/220
+* loopj https 서비스 만들때 검토사항 - http://stackoverflow.com/questions/11573108/self-signed-certificate-and-loopj-for-android 
 
 
 # MEAN Stack 참고 자료
