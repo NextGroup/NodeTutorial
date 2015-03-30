@@ -79,4 +79,4 @@ https://github.com/junegunn/redis-stat/blob/master/README.md
 
 5) 기타 사항
 * mongo 인증 설정 - http://blog.sixpoly.com/?p=440 
-
+* sql query vs mongo query  comparsion  http://docs.mongodb.org/manual/reference/sql-comparison/
