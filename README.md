@@ -57,8 +57,12 @@ soft nofile 999999
 
 안되면 위 방법 후 ulimit -n 999999 하고 나서 명령어 치시면 해결됨
 ``` 
+# Nginx
+* nginx 와 node.js 연동 - http://inspiredjw.tistory.com/21
+* nginx 생활코딩 자료 - http://opentutorials.org/module/384/3462
+* 네이버 개발자 블로그 - http://helloworld.naver.com/helloworld/textyle/192785
+
 #기타 도움이 될만한 글들
 * node.js ubuntu에 서비스 만들기 - http://kvz.io/blog/2009/12/15/run-nodejs-as-a-service-on-ubuntu-karmic/
 * Thumbnail 생성 서비스 - https://github.com/bcoe/thumbd
 * Jade (note frontend template engine) - http://www.learnjade.com/tour/tags-and-text/
-* nginx 와 node.js 연동 - http://inspiredjw.tistory.com/21
