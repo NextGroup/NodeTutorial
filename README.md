@@ -60,3 +60,4 @@ soft nofile 999999
 #기타 도움이 될만한 글들
 * node.js ubuntu에 서비스 만들기 - http://kvz.io/blog/2009/12/15/run-nodejs-as-a-service-on-ubuntu-karmic/
 * Thumbnail 생성 서비스 - https://github.com/bcoe/thumbd
+* Jade (note frontend template engine) - http://www.learnjade.com/tour/tags-and-text/
