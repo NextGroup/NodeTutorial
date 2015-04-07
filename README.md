@@ -66,3 +66,5 @@ soft nofile 999999
 * node.js ubuntu에 서비스 만들기 - http://kvz.io/blog/2009/12/15/run-nodejs-as-a-service-on-ubuntu-karmic/
 * Thumbnail 생성 서비스 - https://github.com/bcoe/thumbd
 * Jade (note frontend template engine) - http://www.learnjade.com/tour/tags-and-text/
+* Garbage Collection -  http://blog.whitelife.co.kr/entry/Nodejs-Memory-%EA%B4%80%EB%A6%AC
+* pm2 start app.js --node-args="--expose-gc" -- arg1 arg2 arg3
