@@ -30,7 +30,10 @@
 * Error Handing  기본 - http://nodeqa.com/nodejs_ref/1
 * Error Handling Pattern - http://www.nodewiz.biz/nodejs-error-handling-pattern/ 
 * domain api 사용법 - http://nodeqa.com/nodejs_ref/106
-* 
+
+# 서버 전반적인 것들 
+* nginx - http://www.joinc.co.kr/modules/moniwiki/wiki.php/man/12/MQTT/Tutorial 
+* mqtt - http://www.joinc.co.kr/modules/moniwiki/wiki.php/man/12/MQTT/Tutorial
 
 # 보안
 * https node.js  서버 만들기 http://blog.saltfactory.net/221 
