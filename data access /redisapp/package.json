@@ -1,14 +1,15 @@
 {
-  "name": "redisapp",
+  "name": "redistest",
   "version": "1.0.0",
   "description": "",
-  "main": "redis_basics.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "redis": "^0.12.1"
+    "redis": "^0.12.1",
+    "underscore": "^1.8.3"
   }
 }
