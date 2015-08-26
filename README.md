@@ -61,6 +61,7 @@ soft nofile 999999
 안되면 위 방법 후 ulimit -n 999999 하고 나서 명령어 치시면 해결됨
 ``` 
 # Nginx
+* 전반적인 설명 - http://www.joinc.co.kr/modules/moniwiki/wiki.php/man/12/Nginx
 * nginx 와 node.js 연동 - http://inspiredjw.tistory.com/21
 * nginx 생활코딩 자료 - http://opentutorials.org/module/384/3462
 * 네이버 개발자 블로그 - http://helloworld.naver.com/helloworld/textyle/192785
